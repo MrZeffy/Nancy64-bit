@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nandini Chauhan.
 - 👀 I’m interested in designing.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Javascript,CSS, html, Git & Github.
 - 💞️ I’m looking to collaborate on Html and css projects
 - 📫 Reach me via LinkedIn 
 linkedin.com/in/nandini-c-a037a2203
