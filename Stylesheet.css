@@ -1,0 +1,69 @@
+body {
+    background-image: url(GithubEdu.png);
+    background-repeat: no-repeat;
+}
+
+.Container {
+    background-color: #232528;
+    width: 800px;
+    height: 1200px;
+    padding: 150px 150px 150px 150px;
+    margin: 20px;
+    border-radius: 20%;
+    align-items: center;
+    box-shadow: -2px 0 0 white, 0 -2px 0 white, 0 0 0 white;
+}
+
+
+h1{
+    font-weight: bold;
+    font-family: cursive;
+    font-weight: bold;
+    color: #52FFB8;
+    text-align: center;
+    font-size: 60px;
+    box-shadow: 1px 4px 9px white;
+    text-shadow: -1px 0 0 gold, 0 -1px 0 gold, 0 0 0 gold;
+}
+
+p {
+    color: #EAF6FF;
+    font-size: 27px;
+}
+
+h2 {
+    color: #EAF6FF;
+    background-color: #009FFD;
+    border-radius: 25px;
+    padding: 14px;
+    text-shadow: -1px 0 0 black, 0 -1px 0 black, 0 0 0 black;
+    border: solid silver;
+}
+
+
+h3 {
+    
+    color: Green;
+    font-weight: bolder;
+    text-shadow: 1px 1px 3px #009FFD;
+    background-color: yellow;
+}
+
+a {
+    text-decoration: none;
+    color: #52FFB8;
+    font-weight: bold;
+}
+
+#CampusExpertFlag {
+    height: 200px;
+    padding-left: 500px;
+  
+    
+}
+
+img {
+    height: 50px;
+    padding-left: 50px;
+    
+}
